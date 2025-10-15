@@ -1,0 +1,34 @@
+{
+    "agreement":[
+        "agreement1",
+        "agreement2",
+        "agreement3",
+        "agreement4",
+        "agreement5"
+    ],
+
+    "request":[
+        "request1"
+    ],
+
+    "greeting":[
+        "greeting1",
+        "greeting2"
+    ],
+
+    "understanding":[
+        "understanding1",
+        "understanding2"
+    ],
+    "weather_report":[
+        "weather_report1"
+    ],
+    "wiki":[
+        "wiki1",
+        "wiki2",
+        "wiki3",
+        "wiki4",
+        "wiki5",
+        "wiki6"
+    ]
+}
